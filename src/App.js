@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import SingleColor from "./SingleColor";
 
 import Values from "values.js";
@@ -38,8 +38,6 @@ function App() {
       </section>
       <section className="colors">
         {list.map((color, index) => {
-          console.log(color);
-
           return <SingleColor key={index} {...color} index={index} />;
         })}
       </section>
