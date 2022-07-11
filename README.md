@@ -2,6 +2,8 @@
 
 # This is React Practice Project "Color generator"
 
+# Idea : Generate shades and tints of hex color .
+
 - This Project was done as a practice project for React
 - Made with React
 - The HTML and CSS was provided .
@@ -16,7 +18,7 @@
 - Function to copy to clipboard hex value of the color
 - Display alert when clicked on SingleColor component
 
-# This project is Live <a href="https://mz-lorem-ipsum.netlify.app">Here</a> ! Enjoy .
+# This project is Live <a href="https://mz-react-color-generator.netlify.app">Here</a> ! Enjoy .
 
 - Have a nice day 🌞
 - 📫 Find me on <a href="https://marcin-zygan.com">marcin-zygan.com</a>
